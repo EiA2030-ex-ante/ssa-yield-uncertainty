@@ -83,7 +83,7 @@ All inputs are public or published datasets:
 
 ## 5. Preliminary results
 
-> Preliminary figures from the current model run. Numbers and maps may change before the final release.
+> Preliminary figures from the current model run. Numbers and maps may change before the final release. For further results, see the accompanying publication: [hdl.handle.net/10568/179409](https://hdl.handle.net/10568/179409).
 
 **Highlights so far:**
 
