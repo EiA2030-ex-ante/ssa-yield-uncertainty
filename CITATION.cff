@@ -21,6 +21,10 @@ authors:
     family-names: Hijmans
     affiliation: "University of California, Davis"
 repository-code: "https://github.com/bsrthyle/ssa-yield-uncertainty"
+identifiers:
+  - type: url
+    value: "https://hdl.handle.net/10568/179409"
+    description: "Accompanying publication (CGSpace handle) with further results"
 abstract: >-
   A spatially explicit modeling framework combining agronomic trial data,
   soil and climate layers, and predicted local input and output prices with
