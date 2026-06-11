@@ -6,15 +6,20 @@ authors:
   - given-names: Bisrat
     family-names: Gebrekidan
     email: b.gebrekidan@cgiar.org
+    affiliation: "International Maize and Wheat Improvement Center (CIMMYT)"
   - given-names: Jordan
     family-names: Chamberlin
     email: j.chamberlin@cgiar.org
+    affiliation: "International Maize and Wheat Improvement Center (CIMMYT)"
   - given-names: Maxwell
     family-names: Mkondwa
+    affiliation: "International Maize and Wheat Improvement Center (CIMMYT)"
   - given-names: Joao Vasco
     family-names: Silva
+    affiliation: "University of Hohenheim"
   - given-names: Robert
     family-names: Hijmans
+    affiliation: "University of California, Davis"
 repository-code: "https://github.com/bsrthyle/ssa-yield-uncertainty"
 abstract: >-
   A spatially explicit modeling framework combining agronomic trial data,
