@@ -1,0 +1,24 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Rdata
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# data layers (distributed separately / fetched on first run)
+data/raw/
+data/intermediate/
+data/results/
+*.tif
+*.parquet
+*.npy
+*.joblib
+tmp/
+
+# OS
+.DS_Store

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "SSA Yield Uncertainty: site-specific maize yield response and risk-adjusted fertilizer profitability across Sub-Saharan Africa under joint climate and price uncertainty"
+type: software
+authors:
+  - given-names: Bisrat
+    family-names: Haile
+    email: bismignot@gmail.com
+repository-code: "https://github.com/bsrthyle/ssa-yield-uncertainty"
+abstract: >-
+  A spatially explicit modeling framework combining agronomic trial data,
+  soil and climate layers, and predicted local input and output prices with
+  a spatial copula Monte Carlo engine that jointly simulates seasonal
+  rainfall and maize price, producing per-pixel profit distributions and
+  risk-adjusted optimal fertilizer rates for maize across Sub-Saharan
+  Africa under joint climate-price, climate-only, and price-only
+  uncertainty.
+keywords:
+  - fertilizer profitability
+  - yield response
+  - risk analysis
+  - Monte Carlo simulation
+  - spatial copula
+  - Sub-Saharan Africa
+  - maize
+  - smallholder agriculture
+license: MIT
+status: in-preparation
+date-released: "2026-06-11"
