@@ -4,8 +4,17 @@ title: "SSA Yield Uncertainty: site-specific maize yield response and risk-adjus
 type: software
 authors:
   - given-names: Bisrat
-    family-names: Haile
-    email: bismignot@gmail.com
+    family-names: Gebrekidan
+    email: b.gebrekidan@cgiar.org
+  - given-names: Jordan
+    family-names: Chamberlin
+    email: j.chamberlin@cgiar.org
+  - given-names: Maxwell
+    family-names: Mkondwa
+  - given-names: Joao Vasco
+    family-names: Silva
+  - given-names: Robert
+    family-names: Hijmans
 repository-code: "https://github.com/bsrthyle/ssa-yield-uncertainty"
 abstract: >-
   A spatially explicit modeling framework combining agronomic trial data,

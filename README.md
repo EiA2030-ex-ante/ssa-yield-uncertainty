@@ -146,7 +146,7 @@ If you reference this work before the working paper is out, please cite the repo
 
 ## 9. Contact
 
-Bisrat Haile — bismignot@gmail.com
+Bisrat Gebrekidan — b.gebrekidan@cgiar.org
 
 ---
 
