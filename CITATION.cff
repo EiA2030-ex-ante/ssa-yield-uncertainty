@@ -20,7 +20,7 @@ authors:
   - given-names: Robert
     family-names: Hijmans
     affiliation: "University of California, Davis"
-repository-code: "https://github.com/bsrthyle/ssa-yield-uncertainty"
+repository-code: "https://github.com/Eia2030/ssa-yield-uncertainty"
 identifiers:
   - type: url
     value: "https://hdl.handle.net/10568/179409"
